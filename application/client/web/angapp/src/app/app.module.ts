@@ -37,9 +37,7 @@ const packageNgzorro = [ { provide: NZ_ICONS, useValue: icons }, { provide: NZ_I
             AppComponent
 ],
   imports: [
-VaultadminModule,
 UserModule,
-ManageusersModule,
 AuthorizationModule,
 HomeModule,
 SignupModule,

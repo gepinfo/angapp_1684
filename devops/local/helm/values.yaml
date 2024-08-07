@@ -54,8 +54,8 @@ service:
   employee: 
     name: employee
     type: NodePort
-    port: 8057
-    targetPort: 8057
+    port: 8059
+    targetPort: 8059
 
   systementry: 
     name: systementry
